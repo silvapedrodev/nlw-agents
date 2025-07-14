@@ -17,7 +17,7 @@
 # Índice
 
 - [Instalar](#🚀-como-instalar-e-executar)
-- [Preview](#preview)
+- [Preview](#%EF%B8%8F-preview)
 - [Como usar](#📖-como-usar)
 - [Estrutura do rojeto](#🏗️-estrutura-do-projeto)
 
