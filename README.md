@@ -59,11 +59,8 @@ O **NLW Agents** é uma aplicação web que permite:
 <div>
   <img src="./assets/screen-01.webp" alt="screen-01">
   <img src="./assets/screen-02.webp" alt="screen-02">
-</div>
-
-<div style="display: flex;">
-  <img width="50%" src="./assets/screen-03.webp" alt="screen-03">
-  <img width="50%" src="./assets/screen-04.webp" alt="screen-04">
+  <img src="./assets/screen-03.webp" alt="screen-03">
+  <img src="./assets/screen-04.webp" alt="screen-04">
 </div>
 
 
