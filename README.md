@@ -16,10 +16,10 @@
 
 # Índice
 
-- [Instalar](#🚀-como-instalar-e-executar)
+- [Instalar](#-como-instalar-e-executar)
 - [Preview](#%EF%B8%8F-preview)
-- [Como usar](#📖-como-usar)
-- [Estrutura do rojeto](#🏗️-estrutura-do-projeto)
+- [Como usar](#-como-usar)
+- [Estrutura do rojeto](#%EF%B8%8F-estrutura-do-projeto)
 
 ## 🎯 O que é o NLW Agents?
 
